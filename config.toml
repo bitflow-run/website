@@ -166,10 +166,10 @@ disqusShortname = ""
 [Languages]
   [Languages.en]
     weight = 1
-  [Languages.de]
+  [Languages.es]
     weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+    title = "BITFLOW"
+    subtitle = "Algunos minutos de noticias tecno. que van al grano."
 
 # don't change anything below
 [taxonomies]
