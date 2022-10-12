@@ -80,7 +80,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "A few minutes of tech news that goes straight to the point."
+    subtitle = "Tech news that goes straight to the point."
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = ""
@@ -169,7 +169,7 @@ disqusShortname = ""
   [Languages.es]
     weight = 2
     title = "BITFLOW"
-    subtitle = "Algunos minutos de noticias tecno. que van al grano."
+    subtitle = "Noticias tecno que van directo al grano."
 
 # don't change anything below
 [taxonomies]
